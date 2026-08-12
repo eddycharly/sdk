@@ -4,7 +4,7 @@ const (
 	AttestationsKey    = "attestations"
 	AttestorsKey       = "attestors"
 	GlobalContextKey   = "globalContext"
-	HttpKey            = "http"
+	HTTPKey            = "http"
 	ImageDataKey       = "image"
 	ImageRefKey        = "ref"
 	ImagesKey          = "images"
